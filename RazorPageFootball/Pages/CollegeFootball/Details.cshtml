@@ -1,0 +1,49 @@
+@page
+@model RazorPageFootball.Pages_CollegeFootball.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>CollegeFootball</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.Team)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.Team)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.Conference)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.Conference)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.TotalOffense)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.TotalOffense)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.TotalDefense)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.TotalDefense)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.MasseyRating)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.MasseyRating)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.CollegeFootball?.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

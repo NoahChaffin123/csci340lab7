@@ -1,0 +1,52 @@
+@page
+@model RazorPageFootball.Pages_CollegeFootball.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>CollegeFootball</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.Team)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.Team)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.Conference)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.Conference)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.TotalOffense)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.TotalOffense)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.TotalDefense)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.TotalDefense)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeFootball.MasseyRating)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeFootball.MasseyRating)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="CollegeFootball.Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

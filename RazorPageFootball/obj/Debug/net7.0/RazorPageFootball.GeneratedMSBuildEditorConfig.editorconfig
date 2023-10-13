@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPageFootball
+build_property.RootNamespace = RazorPageFootball
+build_property.ProjectDir = C:\Users\noahc\OneDrive\Desktop\Database and Websystems\csci340lab7\RazorPageFootball\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\noahc\OneDrive\Desktop\Database and Websystems\csci340lab7\RazorPageFootball
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/CollegeFootball/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sbGVnZUZvb3RiYWxsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/CollegeFootball/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sbGVnZUZvb3RiYWxsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/CollegeFootball/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sbGVnZUZvb3RiYWxsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/CollegeFootball/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sbGVnZUZvb3RiYWxsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/CollegeFootball/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29sbGVnZUZvb3RiYWxsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/noahc/OneDrive/Desktop/Database and Websystems/csci340lab7/RazorPageFootball/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2hfqxu0lnl
